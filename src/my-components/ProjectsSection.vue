@@ -50,6 +50,13 @@ const projects = [
     image: '/img/bodega-deals-dashboard.png',
     link: 'https://www.bodegadeals.com'
   },
+  {
+    title: 'Permit Pilot',
+    description:
+      'A comprehensive .NET Core/React application built for Fincher Services, a construction permitting and consulting company. Streamlines permit handling, licensing, project management, consulting, research, and notary services across 37+ Florida counties, with specialized focus on Marion County and surrounding areas.',
+    image: '/img/permit-pilot-dashboard.png',
+    link: 'https://www.permitpilot.app' // Update with actual project link if available
+  },
   // Add more projects here
 ];
 </script>
